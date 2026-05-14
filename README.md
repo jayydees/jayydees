@@ -30,19 +30,19 @@ Horizontal agentic platform for document classification, extraction, validation,
 ---
 
 
-###  Real Estate Potential Mapper
+###  Real Estate Potential Mapper (chrome extension for Magicbricks.com)
 **Personal Project** · Chrome Extension · Gemini API · Apify · JavaScript
 
 Real estate listing analyzer that scrapes property data from 99acres.com and MagicBricks, runs multi-factor ROI calculation (unit economics, market trends, appreciation benchmarks), and surfaces affluence scores. Saves 15-20 mins per property decision for tier-1 metro investor screening.
 
 ---
 
-### Mutual Fund Sherlock
+### Mutual Fund Sherlock (Mutual fund overlap analyzer)
 **Personal Project** · mfdata.in API · n8n · Gemini Flash Lite · Lovable
 
 Mutual fund overlap analyzer that surfaces hidden stock duplication and sector concentration across retail portfolios. Runs 7 macro scenario stress tests (RBI hikes, FII exits, rupee depreciation, others) and flags funds that quietly agree on the same 30 holdings. Identifies accidental sector bets and ₹5K+/year in redundant fees.
 
-### 📡 LinkedIn Job Radar
+### 📡 LinkedIn Job Radar (Semantic scoring for Similar jobs)
 **Personal Project** · n8n · Apify · Qdrant Vector DB · Gemini API · Next.js
 
 Dual-pipeline scraper that ingests LinkedIn hiring posts and job listings, runs AI field extraction and semantic dedup, outputs ranked PM opportunities with hiring urgency scores. Replaces 3-4 hrs/week of manual job hunting.
