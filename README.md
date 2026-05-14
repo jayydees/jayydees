@@ -42,6 +42,8 @@ Real estate listing analyzer that scrapes property data from 99acres.com and Mag
 
 Mutual fund overlap analyzer that surfaces hidden stock duplication and sector concentration across retail portfolios. Runs 7 macro scenario stress tests (RBI hikes, FII exits, rupee depreciation, others) and flags funds that quietly agree on the same 30 holdings. Identifies accidental sector bets and ₹5K+/year in redundant fees.
 
+---
+
 ### 📡 LinkedIn Job Radar (Semantic scoring for Similar jobs)
 **Personal Project** · n8n · Apify · Qdrant Vector DB · Gemini API · Next.js
 
