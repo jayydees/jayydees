@@ -34,7 +34,6 @@ Horizontal agentic platform for document classification, extraction, validation,
 **Personal Project** · Chrome Extension · Gemini API · Apify · JavaScript
 
 Real estate listing analyzer that scrapes property data from 99acres.com and MagicBricks, runs multi-factor ROI calculation (unit economics, market trends, appreciation benchmarks), and surfaces affluence scores. Saves 15-20 mins per property decision for tier-1 metro investor screening.
-🔍 Data Quality Sentinel
 
 ---
 
