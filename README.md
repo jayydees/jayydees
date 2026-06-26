@@ -6,7 +6,7 @@ My path has run no-code to low-code to code-first: prototyping on Lovable and n8
 
 Everything in this profile started as a problem I hit as a PM, a job seeker, or for a client, then became working software.
 
-> 🔧 **Currently** building agentic and automation tools, and open to **AI PM / AI builder roles** and **AI automation projects.** [Let's talk →](mailto:jatindinesh1@gmail.com)
+> 🔧 **Currently** building agentic and automation tools, and open to **AI PM / AI builder roles** and **AI automation projects.** 
 
 ## What I work on
 
