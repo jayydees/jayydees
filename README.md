@@ -1,8 +1,12 @@
 # Hi, I'm Jatin 👋
 
-Product Manager who ships working AI systems, not just specs. 7+ years across Amazon and high-growth ecommerce (Rufus AI, catalog quality systems, 9X revenue scale at Robu.in). Now building full-stack AI tools at the intersection of agentic workflows, ecommerce data, and automation.
+Product manager who builds. Seven years shipping ecommerce and AI products at Amazon and high-growth startups, the last two spent moving from writing specs to shipping the code behind them.
 
-This GitHub is where I build in public. Every repo here solves a real problem I encountered as a PM, job seeker, or consultant.
+My path has run no-code to low-code to code-first: prototyping on Lovable and n8n, then working directly with APIs, vector databases, and Chrome extension internals. I sit between product and engineering, fluent enough in code to build and ship, close enough to the problem to build the right thing. Hand me a fuzzy business problem and I come back with a working agent, scraper, or tool that real people use.
+
+Everything in this profile started as a problem I hit as a PM, a job seeker, or for a client, then became working software.
+
+> 🔧 **Currently** building agentic and automation tools, and open to **AI PM / AI builder roles** and **AI automation projects.** [Let's talk →](mailto:jatindinesh1@gmail.com)
 
 ## What I work on
 
