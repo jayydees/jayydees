@@ -13,7 +13,7 @@ This GitHub is where I build in public. Every repo here solves a real problem I 
 
 ## Featured Projects
 
-### 🔍 Data Quality Sentinel
+### 🔍 [Data Quality Sentinel](https://forge-audit-mega-mesh-lqfu.architect.space/)
 **Hackathon Build** · Lyzr Architect · Multi-agent orchestration · AEO · Gemini API · Apify
 
 Audit tool for Amazon product listings that tests AI discoverability. 6 agents run in parallel: compliance defect detection, real Gemini visibility testing (actual API calls, not simulated), competitor benchmarking, AI-optimized rewrite proposals, and before/after score simulation. Outputs an AI Readiness Score (0-100).
@@ -22,7 +22,14 @@ Audit tool for Amazon product listings that tests AI discoverability. 6 agents r
 
 ---
 
-### 📄 DocFlow AI — Agentic Document Processing Engine
+### 🛍️ [Myntra SKU Scraper](https://chromewebstore.google.com/detail/sku-scraper-for-myntra/okkonkmbnlekhhmkbeempnkmekpdpaim)
+**Published Chrome Extension (Freemium)** · Manifest V3 · JavaScript · SheetJS
+
+Bulk product and SKU scraper for Myntra product (PDP) and listing (PLP) pages. Exports a multi-sheet XLSX (Products, Sizes, Variants, Offers) with opt-in deep-detail enrichment and multi-page resume. Live on the Chrome Web Store and shipping to real users.
+
+---
+
+### 📄 [DocFlow AI — Agentic Document Processing Engine](https://docflow-agent-craft.lovable.app/)
 **Consulting Project** · OCR + LLM · Multi-agent orchestration · Human-in-loop validation
 
 Horizontal agentic platform for document classification, extraction, validation, and routing. Demoed for Amazon 1P seller onboarding with FSSAI license cross-validation. Modeled on ₹50L/month delayed GMV; targets 80% reduction in manual review.
@@ -37,42 +44,42 @@ Real estate listing analyzer that scrapes property data from 99acres.com and Mag
 
 ---
 
-### Mutual Fund Sherlock (Mutual fund overlap analyzer)
+### [Mutual Fund Sherlock (Mutual fund overlap analyzer)](https://mutualfundsherlock.lovable.app/)
 **Personal Project** · mfdata.in API · n8n · Gemini Flash Lite · Lovable
 
 Mutual fund overlap analyzer that surfaces hidden stock duplication and sector concentration across retail portfolios. Runs 7 macro scenario stress tests (RBI hikes, FII exits, rupee depreciation, others) and flags funds that quietly agree on the same 30 holdings. Identifies accidental sector bets and ₹5K+/year in redundant fees.
 
 ---
 
-### 📡 LinkedIn Job Radar (Semantic scoring for Similar jobs)
+### 📡 [LinkedIn Job Radar (Semantic scoring for Similar jobs)](https://github.com/jayydees/Linkedin-Job-Radar)
 **Personal Project** · n8n · Apify · Qdrant Vector DB · Gemini API · Next.js
 
 Dual-pipeline scraper that ingests LinkedIn hiring posts and job listings, runs AI field extraction and semantic dedup, outputs ranked PM opportunities with hiring urgency scores. Replaces 3-4 hrs/week of manual job hunting.
 
 ---
 
-### 🔖 LinkedIn Saved Posts Organizer
+### 🔖 [LinkedIn Saved Posts Organizer](https://chromewebstore.google.com/detail/linkedin-saved-posts-orga/jphmjbcedjflnelmkilcpnkpehfpndbe)
 **Personal Project** · JavaScript · Chrome Extension · 100+ MAU
 
 Chrome extension that adds tagging, filtering, and search to LinkedIn saved posts. Solves a native UX gap LinkedIn has ignored for years. Daily-use tool; saves ~20-30 min/week.
 
 ---
 
-### 📱 Finfluencer Script Automation
+### 📱 [Finfluencer Script Automation](https://github.com/jayydees/Finfluencer-Instagram-Script-Automation)
 **Consulting Project** · Claude Code · n8n MCP · Gemini API · Apify
 
 Every Monday 8am IST, automatically pulls Mint finance articles, ranks them for virality using Gemini AI, generates 3 Instagram video scripts in the client's writing style, and emails them. Zero manual intervention.
 
 ---
 
-### 💰 Clarix — AI Finance Reconciliation
+### 💰 [Clarix — AI Finance Reconciliation](https://clarix-harmony.lovable.app/)
 **Hackathon (2nd Place)** · Claude · Gemini API · Lovable
 
 CFO tool that detects cross-system payment mismatches between bank, gateway, ERP, and inventory. Explains causes in plain language and routes approvals via human-in-the-loop.
 
 ---
 
-### 🏢 Embassy GCC Hiring Intelligence Platform
+### 🏢 [Embassy GCC Hiring Intelligence Platform](https://embark-talent-hub.lovable.app)
 **Assignment** · n8n on Railway · Supabase pgvector · Gemini API · Apify · Lovable
 
 AI platform with CV ingestion, auto-expanding skill taxonomy, hybrid semantic + structured search, and LinkedIn candidate change tracking with alerts. Returns ranked candidates in seconds vs hours of manual screening.
